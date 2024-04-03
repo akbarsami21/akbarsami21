@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django,Laravel and Linux.**
 
-- 👨‍💻 All of my projects are available at [https://linkmix.co/22369303](https://linkmix.co/22369303)
+- 👨‍💻 All of my projects are available at&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;[https://linkmix.co/22369303](https://linkmix.co/22369303)
 
 - 💬 Ask me about **Java,Python and Online-Related Issues.**
 
